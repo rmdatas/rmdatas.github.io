@@ -74,6 +74,18 @@
     <image:image>
       <image:loc>http://www.rmdatasolutions.com.au/images/asset%202.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/asset%2020-crop-u36892.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/black-dark-speaker-128611-crop-u42562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/architecture-business-cabinet-325229-crop-u43022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/asset%2020-crop-u36962.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.rmdatasolutions.com.au/about-us.html</loc>
@@ -113,6 +125,12 @@
     <image:image>
       <image:loc>http://www.rmdatasolutions.com.au/images/asset%2020-crop-u3833.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/asset%2016-crop-u27672.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/asset%2020-crop-u38332.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.rmdatasolutions.com.au/test-and-tag.html</loc>
@@ -136,6 +154,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rmdatasolutions.com.au/images/asset%2022.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/asset%2020.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -190,6 +211,18 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rmdatasolutions.com.au/images/uap-ac-iw_front.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/asset%2020-crop-u44402.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/wifi-extentions-crop-u40642.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/r-crop-u40612.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/asset%2020-crop-u44472.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -271,6 +304,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rmdatasolutions.com.au/images/australian-standards-table.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rmdatasolutions.com.au/images/australian-standards-table217x335.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
