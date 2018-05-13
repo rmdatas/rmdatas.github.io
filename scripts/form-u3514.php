@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Test and Tag Form Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => '',
+	'success_redirect' => 'thank-you.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
@@ -32,17 +32,17 @@ $form = array(
 	),
 	'fields' => array(
 		'Email' => array(
-			'order' => 3,
+			'order' => 5,
 			'type' => 'email',
-			'label' => 'Contact Name',
+			'label' => 'Contact Email',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Contact Name\' is required.',
-				'format' => 'Field \'Contact Name\' has an invalid email.'
+				'required' => 'Field \'Contact Email\' is required.',
+				'format' => 'Field \'Contact Email\' has an invalid email.'
 			)
 		),
 		'custom_U3515' => array(
-			'order' => 5,
+			'order' => 6,
 			'type' => 'string',
 			'label' => 'Estimated Amount of Appliances to be Tested',
 			'required' => false,
@@ -74,6 +74,15 @@ $form = array(
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'Business Address\' is required.'
+			)
+		),
+		'custom_U8151' => array(
+			'order' => 3,
+			'type' => 'string',
+			'label' => 'Contact Name',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Contact Name\' is required.'
 			)
 		)
 	)

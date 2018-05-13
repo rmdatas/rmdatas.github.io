@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Contact Form Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => '',
+	'success_redirect' => 'thank-you.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
@@ -34,29 +34,29 @@ $form = array(
 		'custom_U2808' => array(
 			'order' => 1,
 			'type' => 'string',
-			'label' => 'Name',
+			'label' => 'Contact Name',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Name\' is required.'
+				'required' => 'Field \'Contact Name\' is required.'
 			)
 		),
 		'Email' => array(
 			'order' => 3,
 			'type' => 'email',
-			'label' => 'Email',
+			'label' => 'Contact Phone',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Email\' is required.',
-				'format' => 'Field \'Email\' has an invalid email.'
+				'required' => 'Field \'Contact Phone\' is required.',
+				'format' => 'Field \'Contact Phone\' has an invalid email.'
 			)
 		),
 		'custom_U2813' => array(
 			'order' => 4,
 			'type' => 'string',
-			'label' => 'Phone',
+			'label' => 'Contact  Email',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Phone\' is required.'
+				'required' => 'Field \'Contact  Email\' is required.'
 			)
 		),
 		'custom_U2785' => array(
@@ -71,10 +71,10 @@ $form = array(
 		'custom_U2817' => array(
 			'order' => 6,
 			'type' => 'string',
-			'label' => 'Message Optional',
+			'label' => 'Message (Optional)',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Message Optional\' is required.'
+				'required' => 'Field \'Message (Optional)\' is required.'
 			)
 		),
 		'custom_U2914' => array(
