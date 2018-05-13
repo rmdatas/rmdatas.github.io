@@ -72,9 +72,8 @@ $form = array(
 			'order' => 6,
 			'type' => 'string',
 			'label' => 'Message (Optional)',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'Field \'Message (Optional)\' is required.'
 			)
 		),
 		'custom_U2914' => array(

@@ -78,6 +78,9 @@
       <image:loc>https://rmdatas.github.io/images/asset%209-crop-u2670_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://rmdatas.github.io/images/asset%2020.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://rmdatas.github.io/images/cameras.jpg</image:loc>
     </image:image>
     <image:image>
@@ -102,9 +105,6 @@
       <image:loc>https://rmdatas.github.io/images/asset%2042_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://rmdatas.github.io/images/asset%2020-crop-u8893.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://rmdatas.github.io/images/cameras-crop-u8711.jpg</image:loc>
     </image:image>
     <image:image>
@@ -115,9 +115,6 @@
     </image:image>
     <image:image>
       <image:loc>https://rmdatas.github.io/images/camera2-crop-u8713_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/asset%2020-crop-u8900.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -453,6 +450,9 @@
       <image:loc>https://rmdatas.github.io/images/asset%202.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://rmdatas.github.io/images/asset%2020.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://rmdatas.github.io/images/asset%20102.jpg</image:loc>
     </image:image>
     <image:image>
@@ -463,12 +463,6 @@
     </image:image>
     <image:image>
       <image:loc>https://rmdatas.github.io/images/asset%20101_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/asset%2025.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/asset%2025_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://rmdatas.github.io/images/asset%2043.png</image:loc>
@@ -489,13 +483,28 @@
       <image:loc>https://rmdatas.github.io/images/sonos-logo_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://rmdatas.github.io/images/asset%2020-crop-u9622.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/asset%2020-crop-u9624.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://rmdatas.github.io/images/bose-better-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/asset%2025-crop-u4787.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/asset%2025-crop-u4787_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/s3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/s3_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/s1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/s1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/s2.jpg</image:loc>
     </image:image>
   </url>
   <url>
