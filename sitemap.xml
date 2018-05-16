@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rmdatas.github.io/index.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -119,7 +119,7 @@
   </url>
   <url>
     <loc>https://rmdatas.github.io/about-us.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -152,10 +152,16 @@
     <image:image>
       <image:loc>https://rmdatas.github.io/images/asset%20103_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/asset%20200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/asset%20200_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://rmdatas.github.io/contact.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -180,24 +186,24 @@
       <image:loc>https://rmdatas.github.io/images/asset%2015_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://rmdatas.github.io/images/asset%2016-crop-u2767.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://rmdatas.github.io/images/asset%2012.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://rmdatas.github.io/images/asset%2012_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://rmdatas.github.io/images/asset%2020-crop-u3833.png</image:loc>
+      <image:loc>https://rmdatas.github.io/images/rm%20wallpaperpsd-crop-u7573.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://rmdatas.github.io/images/rm%20wallpaperpsd-crop-u7573.jpg</image:loc>
+      <image:loc>https://rmdatas.github.io/images/asset%2020.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/asset%2016.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://rmdatas.github.io/test-and-tag.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -216,9 +222,6 @@
       <image:loc>https://rmdatas.github.io/images/asset%2017_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://rmdatas.github.io/images/asset%2020-crop-u3565.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://rmdatas.github.io/images/asset%2019.png</image:loc>
     </image:image>
     <image:image>
@@ -230,10 +233,13 @@
     <image:image>
       <image:loc>https://rmdatas.github.io/images/asset%2022_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/asset%2020.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://rmdatas.github.io/services.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -248,7 +254,7 @@
   </url>
   <url>
     <loc>https://rmdatas.github.io/data.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -308,7 +314,7 @@
   </url>
   <url>
     <loc>https://rmdatas.github.io/television.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -335,7 +341,7 @@
   </url>
   <url>
     <loc>https://rmdatas.github.io/security.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -404,40 +410,10 @@
     <image:image>
       <image:loc>https://rmdatas.github.io/images/asset%20200_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/cameras-crop-u5654.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/cameras-crop-u5654_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/system-crop-u5674.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/system-crop-u5674_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/camera-crop-u5614.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/camera-crop-u5614_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/camera2-crop-u5634.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/camera2-crop-u5634_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/artboard%201-crop-u5500.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/artboard%201-crop-u5500_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://rmdatas.github.io/home-audio.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -509,7 +485,7 @@
   </url>
   <url>
     <loc>https://rmdatas.github.io/phone-and-intercom.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -536,7 +512,7 @@
   </url>
   <url>
     <loc>https://rmdatas.github.io/modern-living.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -563,7 +539,7 @@
   </url>
   <url>
     <loc>https://rmdatas.github.io/standards-table.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -596,7 +572,7 @@
   </url>
   <url>
     <loc>https://rmdatas.github.io/thank-you.html</loc>
-    <lastmod>2018-05-13</lastmod>
+    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -609,13 +585,13 @@
       <image:loc>https://rmdatas.github.io/images/asset%202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://rmdatas.github.io/images/contact-crop-u8192.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://rmdatas.github.io/images/contact-crop-u8192_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://rmdatas.github.io/images/rm%20wallpaperpsd-crop-u8185.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/contact.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rmdatas.github.io/images/contact_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
