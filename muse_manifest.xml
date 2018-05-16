@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://rmdatas.github.io" resolutions="1x,2x" timestamp="1526514395296">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://rmdatas.github.io" resolutions="1x,2x" timestamp="1526514554420">
   <folder name="css">
     <file name="site_global.css" crc="3823008609"/>
     <file name="master_a-master.css" crc="225435375" ref="phone-and-intercom:modern-living:home-audio:about-us:services:data:television:security:test-and-tag:index:standards-table:contact:thank-you"/>
