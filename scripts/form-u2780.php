@@ -63,9 +63,8 @@ $form = array(
 			'order' => 5,
 			'type' => 'string',
 			'label' => 'Address',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'Field \'Address\' is required.'
 			)
 		),
 		'custom_U2817' => array(
@@ -76,7 +75,7 @@ $form = array(
 			'errors' => array(
 			)
 		),
-		'custom_U2914' => array(
+		'custom_U32649' => array(
 			'order' => 2,
 			'type' => 'string',
 			'label' => 'Brief Description of Work',
