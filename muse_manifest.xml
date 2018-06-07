@@ -1,20 +1,20 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://rmdatas.github.io" resolutions="1x,2x" timestamp="1526514554420">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://rmdatas.github.io" resolutions="1x,2x" timestamp="1528355140565">
   <folder name="css">
     <file name="site_global.css" crc="3823008609"/>
-    <file name="master_a-master.css" crc="225435375" ref="phone-and-intercom:modern-living:home-audio:about-us:services:data:television:security:test-and-tag:index:standards-table:contact:thank-you"/>
-    <file name="phone-and-intercom.css" crc="204674992" ref="phone-and-intercom"/>
-    <file name="modern-living.css" crc="4049344347" ref="modern-living"/>
-    <file name="home-audio.css" crc="56612427" ref="home-audio"/>
-    <file name="about-us.css" crc="392571901" ref="about-us"/>
-    <file name="services.css" crc="442067861" ref="services"/>
-    <file name="data.css" crc="4274004725" ref="data"/>
-    <file name="television.css" crc="111268896" ref="television"/>
-    <file name="security.css" crc="4223674149" ref="security"/>
-    <file name="test-and-tag.css" crc="3834469458" ref="test-and-tag"/>
-    <file name="index.css" crc="3898023587" ref="index"/>
-    <file name="standards-table.css" crc="240233188" ref="standards-table"/>
-    <file name="contact.css" crc="3837548671" ref="contact"/>
-    <file name="thank-you.css" crc="4003006934" ref="thank-you"/>
+    <file name="master_a-master.css" crc="11740107" ref="phone-and-intercom:modern-living:home-audio:about-us:services:data:television:security:test-and-tag:index:standards-table:contact:thank-you"/>
+    <file name="phone-and-intercom.css" crc="420488978" ref="phone-and-intercom"/>
+    <file name="modern-living.css" crc="276583965" ref="modern-living"/>
+    <file name="home-audio.css" crc="272038759" ref="home-audio"/>
+    <file name="about-us.css" crc="4137018496" ref="about-us"/>
+    <file name="services.css" crc="4084133119" ref="services"/>
+    <file name="data.css" crc="4134607138" ref="data"/>
+    <file name="television.css" crc="4050105286" ref="television"/>
+    <file name="security.css" crc="4168757446" ref="security"/>
+    <file name="test-and-tag.css" crc="4287808558" ref="test-and-tag"/>
+    <file name="index.css" crc="3791451555" ref="index"/>
+    <file name="standards-table.css" crc="4273222779" ref="standards-table"/>
+    <file name="contact.css" crc="422873866" ref="contact"/>
+    <file name="thank-you.css" crc="127038098" ref="thank-you"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:contact:test-and-tag:services:data:television:security:home-audio:phone-and-intercom:modern-living:standards-table:thank-you"/>
@@ -38,39 +38,40 @@
   <folder name="images">
     <file name="rm new copy.png" crc="222207455" seo="true" ref="index:about-us:contact:test-and-tag:services:data:television:security:home-audio:phone-and-intercom:modern-living:standards-table:thank-you">
       <caption webpage="data" alt=""/>
-      <caption webpage="phone-and-intercom" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="television" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="security" alt=""/>
-      <caption webpage="thank-you" alt=""/>
-      <caption webpage="standards-table" alt=""/>
-      <caption webpage="modern-living" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+      <caption webpage="television" alt=""/>
+      <caption webpage="home-audio" alt=""/>
+      <caption webpage="standards-table" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
       <caption webpage="test-and-tag" alt=""/>
     </file>
     <file name="rm new copy_2x.png" crc="3876175032" seo="true" ref="index:about-us:contact:test-and-tag:services:data:television:security:home-audio:phone-and-intercom:modern-living:standards-table:thank-you">
       <caption webpage="data" alt=""/>
-      <caption webpage="phone-and-intercom" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="television" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="security" alt=""/>
-      <caption webpage="thank-you" alt=""/>
-      <caption webpage="standards-table" alt=""/>
-      <caption webpage="modern-living" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+      <caption webpage="television" alt=""/>
+      <caption webpage="home-audio" alt=""/>
+      <caption webpage="standards-table" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
       <caption webpage="test-and-tag" alt=""/>
     </file>
     <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="data:about-us:security:index:home-audio"/>
+    <file name="blank.gif" crc="4208392903" ref="data:about-us:security:index:home-audio:phone-and-intercom"/>
     <file name="loading.gif" crc="3815509949" ref="data:about-us:television:security:phone-and-intercom:modern-living:index:home-audio"/>
     <file name="asset 3.png" crc="4155068616" seo="true" ref="television">
       <caption webpage="index" alt=""/>
@@ -112,31 +113,16 @@
     <file name="phb.jpg" crc="4255944566" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 6.png" crc="327465562" seo="true" ref="modern-living">
+    <file name="asset 6.png" crc="1224224" seo="true" ref="modern-living">
       <caption webpage="index" alt=""/>
       <caption webpage="modern-living" alt=""/>
     </file>
-    <file name="asset 6_2x.png" crc="249007015" seo="true" ref="modern-living">
+    <file name="asset 6_2x.png" crc="305145016" seo="true" ref="modern-living">
       <caption webpage="index" alt=""/>
       <caption webpage="modern-living" alt=""/>
     </file>
     <file name="mlb.jpg" crc="3919279099" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 2.jpg" crc="4104522862" seo="true" ref="index:about-us:contact:test-and-tag:services:data:television:security:home-audio:phone-and-intercom:modern-living:standards-table:thank-you">
-      <caption webpage="data" alt=""/>
-      <caption webpage="phone-and-intercom" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="television" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="security" alt=""/>
-      <caption webpage="thank-you" alt=""/>
-      <caption webpage="standards-table" alt=""/>
-      <caption webpage="modern-living" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="test-and-tag" alt=""/>
     </file>
     <file name="asset 14.png" crc="476580748" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
@@ -216,10 +202,10 @@
     <file name="asset 7-crop-u2650_2x.png" crc="26124052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 6-crop-u2660.png" crc="110943368" seo="true" ref="index">
+    <file name="asset 6-crop-u2660.png" crc="3811544706" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 6-crop-u2660_2x.png" crc="3790880133" seo="true" ref="index">
+    <file name="asset 6-crop-u2660_2x.png" crc="388348753" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 9-crop-u2670.png" crc="4177099459" seo="true" ref="index">
@@ -258,25 +244,21 @@
     <file name="asset 20-crop-u4526.png" crc="4047673208" seo="true" ref="television">
       <caption webpage="television" alt=""/>
     </file>
-    <file name="asset 200921x21.jpg" crc="118874800" seo="true" ref="data">
-      <caption webpage="data" alt=""/>
-      <caption webpage="security" alt=""/>
-    </file>
-    <file name="asset 200921x21_2x.jpg" crc="4258354517" seo="true" ref="data">
-      <caption webpage="data" alt=""/>
-      <caption webpage="security" alt=""/>
-    </file>
-    <file name="asset 20.png" crc="4233750253" seo="true" ref="security:data:index:home-audio:contact:test-and-tag">
+    <file name="asset 20.png" crc="4233750253" seo="true" ref="security:data:index:home-audio:contact:test-and-tag:phone-and-intercom:modern-living">
       <caption webpage="data" alt=""/>
       <caption webpage="data" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+      <caption webpage="home-audio" alt=""/>
+      <caption webpage="home-audio" alt=""/>
       <caption webpage="test-and-tag" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="security" alt=""/>
-      <caption webpage="security" alt=""/>
     </file>
     <file name="system.jpg" crc="4043977307" seo="true" ref="security">
       <caption webpage="security" alt=""/>
@@ -298,11 +280,11 @@
     <file name="camera_2x.jpg" crc="4071980782" seo="true" ref="security">
       <caption webpage="security" alt=""/>
     </file>
-    <file name="camera2.jpg" crc="4139294260" seo="true" ref="security:index">
+    <file name="camera2.jpg" crc="4139294260" seo="true" ref="security">
       <caption webpage="index" alt=""/>
       <caption webpage="security" alt=""/>
     </file>
-    <file name="camera2_2x.jpg" crc="4190661451" seo="true" ref="security:index">
+    <file name="camera2_2x.jpg" crc="4190661451" seo="true" ref="security">
       <caption webpage="index" alt=""/>
       <caption webpage="security" alt=""/>
     </file>
@@ -312,55 +294,55 @@
     <file name="artboard 1_2x.jpg" crc="4141952272" seo="true" ref="security">
       <caption webpage="security" alt=""/>
     </file>
-    <file name="asset 102.jpg" crc="3869633438" seo="true" ref="security:data:home-audio">
-      <caption webpage="data" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="security" alt=""/>
-    </file>
-    <file name="asset 102_2x.jpg" crc="180461713" seo="true" ref="security:data:home-audio">
-      <caption webpage="data" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="security" alt=""/>
-    </file>
-    <file name="asset 101.png" crc="467357967" seo="true" ref="security:data:home-audio">
+    <file name="asset 102.jpg" crc="43485087" seo="true" ref="security:data:home-audio:phone-and-intercom:modern-living">
       <caption webpage="data" alt=""/>
       <caption webpage="home-audio" alt=""/>
       <caption webpage="security" alt=""/>
-    </file>
-    <file name="asset 101_2x.png" crc="3877161600" seo="true" ref="security:data:home-audio">
-      <caption webpage="data" alt=""/>
-      <caption webpage="home-audio" alt=""/>
-      <caption webpage="security" alt=""/>
-    </file>
-    <file name="asset 200.jpg" crc="4267083935" seo="true" ref="security:data:about-us">
-      <caption webpage="data" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="security" alt=""/>
-    </file>
-    <file name="asset 200_2x.jpg" crc="4044915325" seo="true" ref="security:data:about-us">
-      <caption webpage="data" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="security" alt=""/>
-    </file>
-    <file name="asset 20-crop-u4811.png" crc="4047673208" seo="true" ref="phone-and-intercom">
       <caption webpage="phone-and-intercom" alt=""/>
-    </file>
-    <file name="asset 20-crop-u4813.png" crc="4047673208" seo="true" ref="phone-and-intercom">
-      <caption webpage="phone-and-intercom" alt=""/>
-    </file>
-    <file name="asset 26.png" crc="470303417" seo="true" ref="phone-and-intercom">
-      <caption webpage="phone-and-intercom" alt=""/>
-    </file>
-    <file name="asset 26_2x.png" crc="4049071135" seo="true" ref="phone-and-intercom">
-      <caption webpage="phone-and-intercom" alt=""/>
-    </file>
-    <file name="asset 20-crop-u4887.png" crc="4047673208" seo="true" ref="modern-living">
       <caption webpage="modern-living" alt=""/>
     </file>
-    <file name="asset 20-crop-u4889.png" crc="4047673208" seo="true" ref="modern-living">
+    <file name="asset 102_2x.jpg" crc="3863795837" seo="true" ref="security:data:home-audio:phone-and-intercom:modern-living">
+      <caption webpage="data" alt=""/>
+      <caption webpage="home-audio" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
       <caption webpage="modern-living" alt=""/>
+    </file>
+    <file name="asset 101.png" crc="467357967" seo="true" ref="security:data:home-audio:phone-and-intercom:modern-living">
+      <caption webpage="data" alt=""/>
+      <caption webpage="home-audio" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+    </file>
+    <file name="asset 101_2x.png" crc="3877161600" seo="true" ref="security:data:home-audio:phone-and-intercom:modern-living">
+      <caption webpage="data" alt=""/>
+      <caption webpage="home-audio" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+    </file>
+    <file name="asset 200.jpg" crc="4267083935" seo="true" ref="security:data:phone-and-intercom:modern-living">
+      <caption webpage="data" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+    </file>
+    <file name="asset 200_2x.jpg" crc="4044915325" seo="true" ref="security:data:phone-and-intercom:modern-living">
+      <caption webpage="data" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+    </file>
+    <file name="asset 26.png" crc="220054283" seo="true" ref="phone-and-intercom:modern-living">
+      <caption webpage="modern-living" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
+    </file>
+    <file name="asset 26_2x.png" crc="3976385632" seo="true" ref="phone-and-intercom:modern-living">
+      <caption webpage="modern-living" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
     </file>
     <file name="rm wallpaperpsd-crop-u8125.jpg" crc="3857248245" seo="true" ref="standards-table">
       <caption webpage="standards-table" alt=""/>
@@ -383,18 +365,6 @@
     <file name="asset 42_2x.png" crc="3789212949" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cameras-crop-u8711.jpg" crc="399818207" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cameras-crop-u8711_2x.jpg" crc="19530681" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="camera2-crop-u8713.jpg" crc="4135880749" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="camera2-crop-u8713_2x.jpg" crc="4130283498" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="r.png" crc="295632162" seo="true" ref="data">
       <caption webpage="data" alt=""/>
     </file>
@@ -406,12 +376,6 @@
     </file>
     <file name="wifi-extentions_2x.png" crc="415411350" seo="true" ref="data">
       <caption webpage="data" alt=""/>
-    </file>
-    <file name="asset 43.png" crc="4188531514" seo="true" ref="home-audio">
-      <caption webpage="home-audio" alt=""/>
-    </file>
-    <file name="asset 43_2x.png" crc="468922645" seo="true" ref="home-audio">
-      <caption webpage="home-audio" alt=""/>
     </file>
     <file name="klipsch-logo-crop-u9773.png" crc="4068781972" seo="true" ref="home-audio">
       <caption webpage="home-audio" alt=""/>
@@ -459,18 +423,105 @@
     <file name="contact_2x.png" crc="4027837222" seo="true" ref="thank-you">
       <caption webpage="thank-you" alt=""/>
     </file>
+    <file name="1.png" crc="263299627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 53.png" crc="4017735484" seo="true" ref="index:about-us:contact:test-and-tag:services:data:television:security:home-audio:phone-and-intercom:modern-living:standards-table:thank-you">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="data" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+      <caption webpage="television" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="standards-table" alt=""/>
+      <caption webpage="home-audio" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
+      <caption webpage="test-and-tag" alt=""/>
+    </file>
+    <file name="asset 53_2x.png" crc="151319857" seo="true" ref="index:about-us:contact:test-and-tag:services:data:television:security:home-audio:phone-and-intercom:modern-living:standards-table:thank-you">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="data" alt=""/>
+      <caption webpage="modern-living" alt=""/>
+      <caption webpage="television" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="standards-table" alt=""/>
+      <caption webpage="home-audio" alt=""/>
+      <caption webpage="security" alt=""/>
+      <caption webpage="phone-and-intercom" alt=""/>
+      <caption webpage="test-and-tag" alt=""/>
+    </file>
+    <file name="asset 200960x21.jpg" crc="4267083935" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="asset 200960x21_2x.jpg" crc="4044915325" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="r64x45.png" crc="351381408" seo="true" ref="data">
+      <caption webpage="data" alt=""/>
+    </file>
+    <file name="r64x45_2x.png" crc="9602074" seo="true" ref="data">
+      <caption webpage="data" alt=""/>
+    </file>
+    <file name="wifi-extentions64x45.png" crc="4110649065" seo="true" ref="data">
+      <caption webpage="data" alt=""/>
+    </file>
+    <file name="wifi-extentions64x45_2x.png" crc="203519539" seo="true" ref="data">
+      <caption webpage="data" alt=""/>
+    </file>
+    <file name="asset 102959x20.jpg" crc="4262913551" seo="true" ref="home-audio">
+      <caption webpage="home-audio" alt=""/>
+    </file>
+    <file name="asset 102959x20_2x.jpg" crc="483497671" seo="true" ref="home-audio">
+      <caption webpage="home-audio" alt=""/>
+    </file>
+    <file name="recommenced .png" crc="4118599409" seo="true" ref="home-audio">
+      <caption webpage="home-audio" alt=""/>
+    </file>
+    <file name="recommenced _2x.png" crc="298267052" seo="true" ref="home-audio">
+      <caption webpage="home-audio" alt=""/>
+    </file>
+    <file name="inytercom system 1.jpg" crc="3803911792" seo="true" ref="phone-and-intercom">
+      <caption webpage="phone-and-intercom" alt=""/>
+    </file>
+    <file name="inytercom system 1_2x.jpg" crc="325235838" seo="true" ref="phone-and-intercom">
+      <caption webpage="phone-and-intercom" alt=""/>
+    </file>
+    <file name="iphone.jpg" crc="429114543" seo="true" ref="phone-and-intercom">
+      <caption webpage="phone-and-intercom" alt=""/>
+    </file>
+    <file name="iphone_2x.jpg" crc="434060782" seo="true" ref="phone-and-intercom">
+      <caption webpage="phone-and-intercom" alt=""/>
+    </file>
+    <file name="intercom systems.jpg" crc="4145376196" seo="true" ref="phone-and-intercom">
+      <caption webpage="phone-and-intercom" alt=""/>
+    </file>
+    <file name="intercom systems_2x.jpg" crc="3946511827" seo="true" ref="phone-and-intercom">
+      <caption webpage="phone-and-intercom" alt=""/>
+    </file>
+    <file name="ipphone 1.jpg" crc="149872617" seo="true" ref="phone-and-intercom">
+      <caption webpage="phone-and-intercom" alt=""/>
+    </file>
+    <file name="ipphone 1_2x.jpg" crc="3904908420" seo="true" ref="phone-and-intercom">
+      <caption webpage="phone-and-intercom" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="395059814" seo="true" mt="1526511106213" redirect="true"/>
-  <file name="about-us.html" crc="238119677" seo="true" mt="1526513036656" redirect="true"/>
-  <file name="contact.html" crc="4009534842" seo="true" mt="1526514213043" redirect="true"/>
-  <file name="test-and-tag.html" crc="3814694515" seo="true" mt="1526514079060" redirect="true"/>
-  <file name="services.html" crc="3779898245" seo="true" mt="1526511106213" redirect="true"/>
-  <file name="data.html" crc="3859070595" seo="true" mt="1526511269123" redirect="true"/>
-  <file name="television.html" crc="4294597817" seo="true" mt="1526511106213" redirect="true"/>
-  <file name="security.html" crc="164944680" seo="true" mt="1526511275331" redirect="true"/>
-  <file name="home-audio.html" crc="349719580" seo="true" mt="1526511106213" redirect="true"/>
-  <file name="phone-and-intercom.html" crc="4279590270" seo="true" mt="1526511106213" redirect="true"/>
-  <file name="modern-living.html" crc="207307454" seo="true" mt="1526511106213" redirect="true"/>
-  <file name="standards-table.html" crc="4267403366" seo="true" mt="1526514141456" redirect="true"/>
-  <file name="thank-you.html" crc="423999664" seo="true" mt="1526514318088" redirect="true"/>
+  <file name="index.html" crc="4103428747" seo="true" mt="1528355102226" redirect="true"/>
+  <file name="about-us.html" crc="3916738638" seo="true" mt="1527126522859" redirect="true"/>
+  <file name="contact.html" crc="4114078056" seo="true" mt="1527126522859" redirect="true"/>
+  <file name="test-and-tag.html" crc="500882521" seo="true" mt="1527126522859" redirect="true"/>
+  <file name="services.html" crc="71139217" seo="true" mt="1527126522859" redirect="true"/>
+  <file name="data.html" crc="190002347" seo="true" mt="1527126750969" redirect="true"/>
+  <file name="television.html" crc="4120958604" seo="true" mt="1527126522859" redirect="true"/>
+  <file name="security.html" crc="79318441" seo="true" mt="1527126522859" redirect="true"/>
+  <file name="home-audio.html" crc="366306767" seo="true" mt="1527126522859" redirect="true"/>
+  <file name="phone-and-intercom.html" crc="336037846" seo="true" mt="1527126522859" redirect="true"/>
+  <file name="modern-living.html" crc="6541312" seo="true" mt="1528353518857" redirect="true"/>
+  <file name="standards-table.html" crc="4074575514" seo="true" mt="1527126522859" redirect="true"/>
+  <file name="thank-you.html" crc="3790615377" seo="true" mt="1527126522859" redirect="true"/>
 </manifest>
