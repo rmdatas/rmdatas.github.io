@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'rmdatasolutions.info@gmail.com',
-		'to' => 'rmdatasolutions.info@gmail.com'
+		'from' => 'quotes@rmdatasolutions.com.au',
+		'to' => 'quotes@rmdatasolutions.com.au'
 	),
 	'fields' => array(
 		'Email' => array(
