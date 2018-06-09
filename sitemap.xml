@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.rmdatasolutions.com.au/index.html</loc>
-    <lastmod>2018-06-07</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -224,7 +224,7 @@
   </url>
   <url>
     <loc>https://www.rmdatasolutions.com.au/test-and-tag.html</loc>
-    <lastmod>2018-06-07</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -335,7 +335,7 @@
   </url>
   <url>
     <loc>https://www.rmdatasolutions.com.au/television.html</loc>
-    <lastmod>2018-06-07</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -346,9 +346,6 @@
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/asset%2020.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/asset%20102.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/asset%20102_2x.jpg</image:loc>
@@ -363,10 +360,19 @@
       <image:loc>https://www.rmdatasolutions.com.au/images/asset%2053_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://www.rmdatasolutions.com.au/images/asset%201022.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/rmgrey.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/rmgrey_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rmdatasolutions.com.au/images/contact_1133x21.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rmdatasolutions.com.au/images/contact_1133x21_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/arieal.jpg</image:loc>
@@ -382,36 +388,6 @@
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/40-crop-u35427.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/arieal-crop-u35147.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/arieal-crop-u35147_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/fullmotion-crop-u35378.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/fullmotion-crop-u35378_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/flat%20mounr-crop-u35358.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/flat%20mounr-crop-u35358_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/tvoffer-crop-u35398.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/tvoffer-crop-u35398_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/40-crop-u35433.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/40-crop-u35433_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/20-crop-u35178.jpg</image:loc>
