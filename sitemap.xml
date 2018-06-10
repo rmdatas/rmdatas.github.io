@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.rmdatasolutions.com.au/index.html</loc>
-    <lastmod>2018-06-09</lastmod>
+    <lastmod>2018-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -49,12 +49,6 @@
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/asset%205-crop-u2630_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/asset%203-crop-u2690.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/asset%203-crop-u2690_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/asset%207-crop-u2650.png</image:loc>
@@ -136,6 +130,12 @@
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/contact_1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rmdatasolutions.com.au/images/asset%2039.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rmdatasolutions.com.au/images/asset%2039_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -335,15 +335,9 @@
   </url>
   <url>
     <loc>https://www.rmdatasolutions.com.au/television.html</loc>
-    <lastmod>2018-06-09</lastmod>
+    <lastmod>2018-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/asset%203.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.rmdatasolutions.com.au/images/asset%203_2x.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/asset%2020.png</image:loc>
     </image:image>
@@ -391,6 +385,12 @@
     </image:image>
     <image:image>
       <image:loc>https://www.rmdatasolutions.com.au/images/20-crop-u35178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rmdatasolutions.com.au/images/asset%2040.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rmdatasolutions.com.au/images/asset%2040_2x.png</image:loc>
     </image:image>
   </url>
   <url>
